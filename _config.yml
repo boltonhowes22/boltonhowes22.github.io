@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "G. H. Edwards"
+title                    : "Bolton Howes"
 title_separator          : "|"
-name                     : &name "Graham Harper Edwards"
-description              : &description "geochemistry, cosmochemistry, geochronology"
-url                      : https://grahamedwards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bolton Howes"
+description              : &description "Sedimentology & Earth History"
+url                      : https://boltonhowes22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "grahamedwards/grahamedwards.github.io"
+repository               : "boltonhowes22/boltonhowes22.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Graham Harper Edwards, PhD"
+  name             : "Bolton Howes"
   avatar           : "profile.jpg"
-  bio              : "he | him<br>Cosmochemistry<br>Geochronology<br>NSF Postdoctoral Fellow<br><br>graham.h.edwards at dartmouth.edu"
-  location         : "Dartmouth College"
+  bio              : "Sedimentology<br>Earth History<br>Ph.D. Candidate<br><br>bhowes at princeton.edu"
+  location         : "Princeton University"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=KHLOvgcAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=yiG1jRIAAAAJ&hl=en&oi=ao"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "grahamedwards"
+  github           : "boltonhowes22"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-3285-4858"
+  orcid            : #"http://orcid.org/0000-0002-3285-4858"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           : 
-  twitter          : "gisforgeology"
+  twitter          : #"gisforgeology"
   vine             :
   weibo            :
   xing             :
