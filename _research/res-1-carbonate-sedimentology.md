@@ -5,7 +5,7 @@ permalink: /research/carbonate_sedimentology
 excerpt: "<img src='/images/meteoritics/cosmochem.png' width='400'>"
 ---
 
-## Current Work ##
+### Current Work 
 
 Earth's climate is intertwined with the carbonate chemistry of the ocean, which makes carbonate rock an excellent archive of our planet's climate history. My current work on carbonates is focused on understanding how ooids (sand-sized carbonate grains) form and what ooid morphology can tell us about ancient environments.
 
