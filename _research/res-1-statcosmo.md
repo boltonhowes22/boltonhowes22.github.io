@@ -1,7 +1,7 @@
 ---
 title: "Carbonate Sedimentology"
 collection: research
-permalink: /research/cosmochem
+permalink: /research/carbonate_sedimentology
 excerpt: "<img src='/images/meteoritics/cosmochem.png' width='400'>"
 ---
 
