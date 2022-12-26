@@ -6,6 +6,7 @@ excerpt: "<img src='/images/meteoritics/cosmochem.png' width='400'>"
 ---
 
 ## Current Work ##
+
 Earth's climate is intertwined with the carbonate chemistry of the ocean, which makes carbonate rock an excellent archive of our planet's climate history. My current work on carbonates is focused on understanding how ooids (sand-sized carbonate grains) form and what ooid morphology can tell us about ancient environments.
 
 The first part of this project focused on developing methods for reconstructing ooid morphology in 3D using Princeton's [Grinding, Imaging, and Reconstructing Instrument](https://giri.princeton.edu/). We trained a simple convolutional neural network to segment the 3D image stack and conducted several experiments using the morphology of the reconstructed ooids to demonstrate how 3D measurments improve environmental reconstructions. This project was done in collaboration with [Akshay Mehra](https://www.akshaymehra.com/) and [Adam Maloof](https://geosciences.princeton.edu/people/adam-c-maloof).
