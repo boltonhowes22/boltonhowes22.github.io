@@ -20,7 +20,8 @@ I am currently working on using the growth laminations within ooids to reconstru
 ### Previous Work
 I did my masters with [Steve Holland](http://strata.uga.edu/) studying the sequence stratigraphy of a carbonate ramp in the Jurassic Sundance Seaway in southwest Wyoming. The project focused on understanding how flexural subsidence can drown carbonate platforms and correlating the Twin Creek Limestone to other portions of the Sundance Seaway.
 
-During my dissertation, I have also been fortunate to contribute (albeit small contributions) to a couple other projects focused on carbonate sedimentology:
+During my dissertation, I have also been fortunate to contribute (albeit small contributions) to a several other projects focused on carbonate sedimentology:
 
-- The origins of carbonate mud and implications for carbonate mud. Geyman et al. 2022
-- A novel technique for producing three-dimensional data using serial sectioning and semi-automatic image classification. Mehra et al. 2022
+- The origins of carbonate mud and implications for carbonate mud. Geyman et al. 2022.
+- A novel technique for producing three-dimensional data using serial sectioning and semi-automatic image classification. Mehra et al. 2022.
+- Snowballs in Africa: sectioning a long-lived Neoproterozoic carbonate platform and its bathyal foreslope (NW Namibia). Hoffman et al. 2021.
