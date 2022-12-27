@@ -15,7 +15,7 @@ The first part of this project focused on developing methods for reconstructing 
 
 I am currently working on using the growth laminations within ooids to reconstruct how they're shape changes as the ooids grow. The goal of this is project is to better understand  the conditions that lead to ooid formation, particularly the formation of giant ooids (>2 mm). Giant ooids are important because they are rare in the sedimentary record, but abundant during some of the most extreme climate change events, like the Cryogenian and end-Permian Mass Extinction. This study will try to use giant ooids to understand the unique chemical and physical conditions that lead to the formation of giant ooids.
 
-<img src='/images/meteoritics/solsys.png' width='400'>
+<img src='/images/meteoritics/solsys.png' width='800'>
 
 ### Previous Work
 I did my masters with [Steve Holland](http://strata.uga.edu/) studying the sequence stratigraphy of a carbonate ramp in the Jurassic Sundance Seaway in southwest Wyoming. The project focused on understanding how flexural subsidence can drown carbonate platforms and correlating the Twin Creek Limestone to other portions of the Sundance Seaway.
