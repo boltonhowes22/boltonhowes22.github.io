@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/giri-methods
 excerpt: ''
 authors: 'Akshay Mehra, <b>Bolton J. Howes </b>, Ryan Manzuk, Adam Maloof'
-date: 2022-7-1
+date: 2022-8-1
 year: '2022'
 venue: 'Microscopy and Microanalysis'
 accessurl: 'https://boltonhowes22.github.io/files/Mehra_giri2022.pdf'
