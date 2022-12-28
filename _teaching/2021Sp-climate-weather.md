@@ -8,7 +8,7 @@ date: 2021-04-01
 location: "Princeton, NJ, U.S.A."
 ---
 
-The course focuses on the relationship between climate and weather events. Each weather event is unique and not predictable more than a few days in advance, but large-scale climate constrain the probability of weather events.<br><b>Instructors:</b> Prof. Gabe Vecchi.
+The course focuses on the relationship between climate and weather events. Each weather event is unique and not predictable more than a few days in advance, but large-scale climate constrain the probability of weather events.<br><b>Instructors:</b> Prof. Gabe Vecchi
 
 ### Responsibilities
 I assisted  students in the completion of problem sets and in-class activities. Problem sets focused on understanding weather and climate data using simple statistics and data interpretation. In-class activities centered around discussing seminal papers in climate science, often weighing the merits of papers that contradicted each other. I also graded and developed answer keys for the problem sets and exams.
