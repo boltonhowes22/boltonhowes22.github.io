@@ -2,7 +2,7 @@
 title: "Carbonate Sedimentology"
 collection: research
 permalink: /research/carbonate_sedimentology
-excerpt: "<img src='/images/meteoritics/cosmochem.png' width='400'>"
+excerpt: "<img src='/images/ooids/cover_slide-1.png' width='400'>"
 ---
 
 
