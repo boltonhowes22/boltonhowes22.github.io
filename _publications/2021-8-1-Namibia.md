@@ -3,7 +3,7 @@ title: "Snowballs in Africa: sectioning a long-lived Neoproterozoic carbonate pl
 collection: publications
 permalink: /publications/namibia
 excerpt: ''
-authors: 'Paul F.Hoffman, Galen P.Halverson, Daniel P.Schrag, John A. Higgins, Eugene W.Domack,...<b>Bolton J. Howes </b>, and more...'
+authors: 'Paul F. Hoffman, Galen P. Halverson, Daniel P. Schrag, John A. Higgins, Eugene W. Domack,...<b>Bolton J. Howes </b>, and more...'
 date: 2021-8-1
 year: '2021'
 venue: 'Earth-Science Reviews'
