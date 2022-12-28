@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Earth: Crops, Culture, and Climate (in Italy)"
 collection: teaching
 type: "Assistant Instructor"
 permalink: /teaching/2019Sp-italy
 venue: "Princeton University, Geosciences"
-date: 2021-3-30
+date: 2019-8-30
 location: "Princeton, NJ, U.S.A. & Calabria, Italy"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Assistant Instructor"
 permalink: /teaching/2021Sp-climate-weather
 venue: "Princeton University, Geosciences"
-date: 2021-04-01
+date: 2021-4-01
 location: "Princeton, NJ, U.S.A."
 ---
 
