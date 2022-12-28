@@ -2,7 +2,7 @@
 title: "Climate and Weather: Order in the Chaos"
 collection: teaching
 type: "Assistant Instructor"
-permalink: /teaching/2018Sp-geochemSS
+permalink: /teaching/2021-climate-weather
 venue: "Princeton University, Geosciences"
 date: 2021-04-01
 location: "Princeton, NJ, U.S.A."
