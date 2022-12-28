@@ -1,7 +1,7 @@
 ---
-title: "Processes at the bases of glaciers"
+title: "Cretaceous--Paleogene Boundary"
 collection: research
-permalink: /research/subglacial
+permalink: /research/K_Pg
 excerpt: "<img src='/images/ice/Linebreen_snout.jpg' width='400'>"
 ---
 
