@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Museum Outreach"
-permalink: /outreach/
+title: "Templates"
+permalink: /templates/
 author_profile: true
 ---
 
