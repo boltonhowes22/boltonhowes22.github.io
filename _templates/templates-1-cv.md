@@ -1,7 +1,7 @@
 ---
 title: "CV"
-collection: template
-permalink: /template/cv
+collection: templates
+permalink: /templates/cv
 excerpt: ""
 ---
 
