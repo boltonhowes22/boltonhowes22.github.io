@@ -5,5 +5,5 @@ permalink: /templates/cv
 excerpt: ""
 ---
 
-A simple latex template for a CV.
+A simple latex template for a CV:
 accessurl: 'https://boltonhowes22.github.io/files/cv.tex'
