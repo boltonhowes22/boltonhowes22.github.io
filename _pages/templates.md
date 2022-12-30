@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Templates HEY IS THIS WORKING"
+title: "Templates"
 permalink: /templates/
 author_profile: true
 ---
