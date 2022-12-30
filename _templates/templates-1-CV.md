@@ -10,3 +10,4 @@ I realized that I was spending a lot of time battling formatting (for CVs, prese
 
 Here they are: 
  - [LaTeX template for a CV](https://boltonhowes22.github.io/files/cv.tex)
+ - coming soon: cover letter, inDesign presentation slides, generic latex paper writing template
