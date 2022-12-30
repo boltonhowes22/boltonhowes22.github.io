@@ -9,7 +9,8 @@ I realized that I was spending a lot of time battling formatting (for CVs, prese
 
 Here they are: 
  - [LaTeX template for a CV](https://boltonhowes22.github.io/files/cv.tex)
- - coming soon: cover letter, inDesign presentation slides, generic latex paper writing template
+ - [Cover letter for manuscript submissions](https://boltonhowes22.github.io/files/cover-letter-template.zip)
+ - coming soon: cover letter for official communcations, inDesign presentation slides, generic latex paper writing template.
 
 
 {% include base_path %}
