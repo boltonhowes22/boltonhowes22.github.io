@@ -1,6 +1,6 @@
 ---
 title: "CV"
 collection: templates
-permalink: /templates/K_Pg
+permalink: /templates/cv
 excerpt: "A quick latex cv template"
 ---
