@@ -1,0 +1,53 @@
+.body-container {
+    max-width: 1080px;
+    margin: 0 auto;
+    display: block;
+}
+
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 12pt;
+    color: black;
+    background-color: white;
+    margin: 0 20px;
+    padding: 0;
+}
+
+#navbar { 
+    background: white; 
+    max-width: 1080px;
+    margin: 0 auto; 
+    text-align: left
+}
+
+div.bar {
+    width: 100%; 
+    height: 2px; 
+    background: black;
+    clear: both;
+}
+
+a {
+    color: #444;
+}
+a:hover {
+    color: black;
+}
+a.menu {
+    text-decoration: none;
+    font-size: 16pt;
+    padding-right: 1em;
+}
+
+p { 
+    line-height: 1.5em;
+}
+
+ul {
+    text-align: left; 
+}
+li { 
+    display: inline; 
+}
+
+
