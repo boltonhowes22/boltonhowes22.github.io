@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  2 NOV 2026 16:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  2 NOV 2026 19:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -284,7 +284,7 @@ Package rerunfilecheck Info: File `bhowes_cv.out' has not changed.
 Here is how much of TeX's memory you used:
  8381 strings out of 467525
  130102 string characters out of 5418982
- 570164 words of memory out of 5000000
+ 570163 words of memory out of 5000000
  37218 multiletter control sequences out of 15000+600000
  631172 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
